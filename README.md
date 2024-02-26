@@ -1,4 +1,4 @@
-Wingardium Leviosa
+Applying for job Develop Simple Custom Discord Bot.
 
 ## How to install
 First follow [this guide](https://docs.pycord.dev/en/stable/discord.html#discord-intro) to create a bot user. You can skip the 6th step of "Inviting Your Bot", because we only need the permissions in the 5th step. You can use the `spiral.jpg` photo in the repository for your application.
